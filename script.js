@@ -1,0 +1,5 @@
+function myFunction() {
+	document.getElementById("1").innerHTML = "Welcome to my page";
+	document.getElementById("2").innerHTML = "Alyah saputri bakri";
+	document.getElementById("3").innerHTML = "Halo, saya Alyah, saya seorang mahasiswi semester 2 di universitas muhammadiyah makassar, program studi informatika, saya penggemar teknologi yang senang belajar hal hal baru, walaupun saya tidak memiliki latar belakang dalam ilmu komputer saya sangat antusias tentang pengembangan perangkat lunak, selain itu saya juga menyukai keindahan alam. Saya percaya bahwa kerja keras dan ketekunan adalah kunci kesuksesan. Saya selalu berusaha untuk menjadi pribadi yang proaktif, kreatif, dan dapat diandalkan dalam setiap proyek yang saya kerjakan. tapii minusnya hobi saya tidur, sekian terimakasih sudah ingin mengenal saya lebih jauh";
+}
